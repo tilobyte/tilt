@@ -5,4 +5,4 @@ Use [LaValle, Yershova, Katsev, & Antonov's](https://msl.cs.illinois.edu/~lavall
 
 Demo:
 
-https://user-images.githubusercontent.com/3729883/188998003-7a89dea8-d464-4658-a1a1-64b522c406c4.mp4
+https://user-images.githubusercontent.com/3729883/188998673-794afbdb-d671-494a-93bb-fc1b4bb16b3b.mp4
