@@ -1,7 +1,7 @@
 # tilt Android app
 cse 5xx homework 2
 
-Use [LaValle, Yershova, Katsev, & Antonov's](https://msl.cs.illinois.edu/~lavalle/papers/LavYerKatAnt14.pdf) Oculus head-tracking algorithm to track tilt on an Android device.
+Implement [LaValle, Yershova, Katsev, & Antonov's](https://msl.cs.illinois.edu/~lavalle/papers/LavYerKatAnt14.pdf) Oculus head-tracking algorithm to track tilt on an Android device.
 
 Demo:
 
